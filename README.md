@@ -1,0 +1,1 @@
+# Cordova Plugin | Android TelephonyManager 
