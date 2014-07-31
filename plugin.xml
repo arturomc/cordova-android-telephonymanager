@@ -27,6 +27,6 @@
             <uses-permission android:name="android.permission.READ_PHONE_STATE" />
         </config-file>
 
-        <source-file src="src/android/TelephonyManagerPlugin.java" target-dir="src/com/blueribbon/cordova" />
+        <source-file src="src/android/com/blueribbon/cordova/TelephonyManagerPlugin.java" target-dir="src/com/blueribbon/cordova" />
     </platform>
 </plugin>
